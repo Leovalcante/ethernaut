@@ -13,3 +13,4 @@ All solution for the ethernaut challenges!
 8.  [Vault](./08_vault.md)
 9.  [King](./09_king.md)
 10. [Re-entrancy](./10_reentrancy.md)
+11. [Elevator](./11_elevator.md)
