@@ -8,3 +8,4 @@ All solution for the ethernaut challenges!
 3. [Coin Flip](./03_coin_flip.md)
 4. [Telephone](./04_telephone.md)
 5. [Token](./05_token.md)
+6. [Delegation](./06_delegation.md)
