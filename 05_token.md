@@ -1,4 +1,5 @@
 # 05. Token
+<sup>Difficulty 3/10</sup>
 
 The goal of this level is for you to hack the basic token contract below.
 

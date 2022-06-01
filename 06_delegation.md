@@ -1,4 +1,5 @@
 # 06. Delegation
+<sup>Difficulty 4/10</sup>
 
 The goal of this level is for you to claim ownership of the instance you are given.
 

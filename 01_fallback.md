@@ -1,4 +1,5 @@
 # 01. Fallback
+<sup>Difficulty 1/10</sup>
 
 You will beat this level if
 

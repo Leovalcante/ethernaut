@@ -1,4 +1,5 @@
 # 02. Fallout
+<sup>Difficulty 2/10</sup>
 
 Claim ownership of the contract below to complete this level.
 

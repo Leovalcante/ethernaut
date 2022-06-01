@@ -1,4 +1,5 @@
 # 04. Telephone
+<sup>Difficulty 1/10</sup>
 
 Claim ownership of the contract below to complete this level.
 
