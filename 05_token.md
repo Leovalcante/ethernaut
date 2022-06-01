@@ -53,3 +53,20 @@ await contract.balanceOf(player)
 
 This works because `balances[msg.sender] -= _value;` will set the MAX_INT value to the `msg.sender` that would be us. To keep our tokens the `_to` address has to be another account because `MAX_INT + 1 == 0` and we will loose all the accumulated tokens. Also, we set `_value` to 21 because we have 20 starting tokens.
 
+## OZ Corner
+
+Overflows are very common in solidity and must be checked for with control statements such as:
+
+```solidity
+if(a + c > a) {
+  a = a + c;
+}
+```
+
+An easier alternative is to use OpenZeppelin's SafeMath library that automatically checks for overflows in all the mathematical operators. The resulting code looks like this:
+
+```solidity
+a = a.add(c);
+```
+
+If there is an overflow, the code will revert.
