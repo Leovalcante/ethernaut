@@ -11,3 +11,4 @@ All solution for the ethernaut challenges!
 6. [Delegation](./06_delegation.md)
 7. [Force](./07_force.md)
 8. [Vault](./08_vault.md)
+9. [Vault](./09_king.md)
