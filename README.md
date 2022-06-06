@@ -19,3 +19,4 @@ All solution for the ethernaut challenges!
 14. Gatekeeper Two TODO
 15. [Naught Coin](./challenges/15_naught_coin.md)
 16. [Preservation](./challenges/16_preservation.md)
+17. [Recovery](./challenges/17_recovery.md)
