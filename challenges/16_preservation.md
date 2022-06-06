@@ -101,6 +101,8 @@ await contract.owner() == player
 // -> true
 ```
 
-In depth information here: (Smart Contract Hacking Chapter 7 - Delegate Call Attack Vectors)[https://console-cowboys.blogspot.com/2020/10/smart-contract-hacking-chapter-7.html]
+In depth information here: [Smart Contract Hacking Chapter 7 - Delegate Call Attack Vectors](https://console-cowboys.blogspot.com/2020/10/smart-contract-hacking-chapter-7.html)
 
 ## OZ Corner
+
+As the previous level, `delegate` mentions, the use of `delegatecall` to call libraries can be risky. This is particularly true for contract libraries that have their own state. This example demonstrates why the `library` keyword should be used for building libraries, as it prevents the libraries from storing and accessing state variables.
