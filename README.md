@@ -15,6 +15,7 @@ All solution for the ethernaut challenges!
 10. [Re-entrancy](./challenges/10_reentrancy.md)
 11. [Elevator](./challenges/11_elevator.md)
 12. [Privacy](./challenges/12_privacy.md)
-13. [Gatekeeper One](./challenges/13_gatekeeper_one.md) TODO
-14. TODO
+13. Gatekeeper One TODO
+14. Gatekeeper Two TODO
 15. [Naught Coin](./challenges/15_naught_coin.md)
+16. [Preservation](./challenges/16_preservation.md)
