@@ -25,3 +25,4 @@ All solution for the ethernaut challenges!
 20. [Denial](./challenges/20_denial.md)
 21. [Shop](./challenges/21_shop.md)
 22. [Dex](./challenges/22_dex.md)
+23. [Dex Two](./challenges/23_dex_two.md)
