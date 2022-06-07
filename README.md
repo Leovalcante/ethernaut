@@ -24,3 +24,4 @@ All solution for the ethernaut challenges!
 19. [Alien Codex](./challenges/19_alien_codex.md)
 20. [Denial](./challenges/20_denial.md)
 21. [Shop](./challenges/21_shop.md)
+22. [Dex](./challenges/22_dex.md)
