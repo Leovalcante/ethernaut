@@ -23,3 +23,4 @@ All solution for the ethernaut challenges!
 18. [Magic Number](./challenges/18_magic_number.md) TODO
 19. [Alien Codex](./challenges/19_alien_codex.md)
 20. [Denial](./challenges/20_denial.md)
+21. [Shop](./challenges/21_shop.md)
