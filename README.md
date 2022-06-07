@@ -21,4 +21,4 @@ All solution for the ethernaut challenges!
 16. [Preservation](./challenges/16_preservation.md)
 17. [Recovery](./challenges/17_recovery.md)
 18. [Magic Number](./challenges/18_magic_number.md) TODO
-
+19. [Alien Codex](./challenges/19_alien_codex.md)
